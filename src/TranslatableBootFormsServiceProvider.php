@@ -1,4 +1,4 @@
-<?php namespace Propaganistas\LaravelTranslatableBootForms;
+<?php namespace AnaLisboa\LaravelTranslatableBootForms;
 
 use Illuminate\Foundation\Application;
 use Illuminate\Support\ServiceProvider;

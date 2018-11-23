@@ -1,4 +1,4 @@
-<?php namespace Propaganistas\LaravelTranslatableBootForms\Form;
+<?php namespace AnaLisboa\LaravelTranslatableBootForms\Form;
 
 use AdamWathan\Form\FormBuilder as _FormBuilder;
 

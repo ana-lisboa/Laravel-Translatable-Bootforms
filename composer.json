@@ -1,12 +1,12 @@
 {
-    "name": "propaganistas/laravel-translatable-bootforms",
+    "name": "AnaLisboa/laravel-translatable-bootforms",
     "description": "Empowers adamwathan/bootforms with dimsav/laravel-translatable.",
     "keywords": ["laravel", "bootforms", "translatable", "i18n", "form"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Propaganistas",
-            "email": "Propaganistas@users.noreply.github.com"
+            "name": "ana-lisboa",
+            "email": "ana@analisboa.pt"
         }
     ],
     "require": {
@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Propaganistas\\LaravelTranslatableBootForms\\": "src/"
+            "AnaLisboa\\LaravelTranslatableBootForms\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Propaganistas\\LaravelTranslatableBootForms\\Tests\\": "tests/"
+            "AnaLisboa\\LaravelTranslatableBootForms\\Tests\\": "tests/"
         }
     },
     "prefer-stable": true

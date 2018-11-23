@@ -1,4 +1,4 @@
-<?php namespace Propaganistas\LaravelTranslatableBootForms\Facades;
+<?php namespace AnaLisboa\LaravelTranslatableBootForms\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

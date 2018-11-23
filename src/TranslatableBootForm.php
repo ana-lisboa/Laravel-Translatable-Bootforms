@@ -1,4 +1,4 @@
-<?php namespace Propaganistas\LaravelTranslatableBootForms;
+<?php namespace AnaLisboa\LaravelTranslatableBootForms;
 
 use Closure;
 
@@ -132,7 +132,7 @@ class TranslatableBootForm
      *
      * @param string $method
      * @param array  $parameters
-     * @return \Propaganistas\LaravelTranslatableBootForms\TranslatableBootForm
+     * @return \AnaLisboa\LaravelTranslatableBootForms\TranslatableBootForm
      */
     public function __call($method, $parameters)
     {

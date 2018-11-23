@@ -1,4 +1,4 @@
-<?php namespace Propaganistas\LaravelTranslatableBootForms\Translatable;
+<?php namespace AnaLisboa\LaravelTranslatableBootForms\Translatable;
 
 use Dimsav\Translatable\Translatable;
 
