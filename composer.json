@@ -1,6 +1,6 @@
 {
     "name": "AnaLisboa/laravel-translatable-bootforms",
-    "description": "Empowers adamwathan/bootforms with dimsav/laravel-translatable.",
+    "description": "Fork from Propagandistas/laravel-translatable-bootforms. Empowers adamwathan/bootforms with dimsav/laravel-translatable.",
     "keywords": ["laravel", "bootforms", "translatable", "i18n", "form"],
     "license": "MIT",
     "authors": [
@@ -9,6 +9,12 @@
             "email": "ana@analisboa.pt"
         }
     ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ana-lisboa/laravel-translatable-bootforms"
+    }
+  ],
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": ">=5.0,<5.6",
