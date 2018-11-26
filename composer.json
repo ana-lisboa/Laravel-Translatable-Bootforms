@@ -19,15 +19,18 @@
     {
       "type": "vcs",
       "url": "https://github.com/ana-lisboa/laravel-translatable-bootforms"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ana-lisboa/bootforms"
     }
   ],
   "require": {
     "php": ">=7.0",
     "laravel/framework": "5.7.*",
-    "illuminate/support": ">=5.0,<5.6",
+    "illuminate/support": ">=5.0",
     "adamwathan/form": ">=0.8.0 <0.8.13 || ^0.9",
-    "adamwathan/bootforms": "^0.8 || ^0.9",
-    "dimsav/laravel-translatable": ">=5.0"
+    "dimsav/laravel-translatable": ">=9.0"
   },
   "require-dev": {
     "laravel/framework": "5.7.*",
