@@ -22,14 +22,13 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/ana-lisboa/bootforms"
+      "url": "https://github.com/ana-lisboa/form"
     }
   ],
   "require": {
     "php": ">=7.0",
     "laravel/framework": "5.7.*",
     "illuminate/support": ">=5.0",
-    "adamwathan/form": ">=0.8.0 <0.8.13 || ^0.9",
     "dimsav/laravel-translatable": ">=9.0"
   },
   "require-dev": {
